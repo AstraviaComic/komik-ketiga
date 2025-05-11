@@ -1,0 +1,14 @@
+{
+  "repo": "komik-ketiga",
+  "title": "Komik ketiga",
+  "author": "Komik ke 3",
+  "artist": "Nope",
+  "description": "Stay",
+  "genre": [
+    "Gak ada sementara"
+  ],
+  "status": "Ongoing",
+  "chapters": 0,
+  "created_at": "2025-05-11T16:11:26.801Z",
+  "updated_at": "2025-05-11T16:11:26.809Z"
+}
